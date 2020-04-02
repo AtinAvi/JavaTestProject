@@ -1,0 +1,20 @@
+<html>
+<body>
+<form action="helloworld" method="get">
+
+</form>
+
+<form action="helloworld" method="post">
+
+Enter issue key:  <br/>
+<input type="text" name="issuekey">
+<br/>
+<font color="red" size="2">$errorMessage</font>
+<br/>
+<input type="submit">
+
+</form>
+</body>
+
+
+</html>
